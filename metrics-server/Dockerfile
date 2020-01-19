@@ -1,2 +1,2 @@
 From k8s.gcr.io/metrics-server-amd64:v0.3.6
-LATBEL MAINTAINER=qiush<shuhui@vqiu.cn>
+LABEL MAINTAINER=qiush<shuhui@vqiu.cn>
