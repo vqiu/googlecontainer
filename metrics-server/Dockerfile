@@ -1,2 +1,2 @@
-From k8s.gcr.io/metrics-server-amd64:v0.3.6
+From k8s.gcr.io/metrics-server/metrics-server:v0.3.7
 LABEL MAINTAINER=qiush<shuhui@vqiu.cn>
