@@ -1,2 +1,4 @@
-From quay.io/coreos/flannel:v0.11.0-amd64
-MAINTAINER qiush <shuhui@vqiu.cn>
+#FROM quay.io/coreos/flannel:v0.13.1-rc2
+FROM quay.io/coreos/flannel:v0.13.0
+
+LABEL maintainer="Qiu Shu Hui<shuhui@vqiu.cn>"
